@@ -7,7 +7,9 @@
 * 프로그래머스 문제풀이
   * A2.cpp : 모의고사(완전탐색)
   * A3.cpp : 전화번호 목록(해시)
+  * A4.cpp : 구명보트 문제(탐욕법)
 ### A1.cpp : https://www.acmicpc.net/problem/2455
 ### A2.cpp : https://programmers.co.kr/learn/courses/30/lessons/42840
 ### A3.cpp : https://programmers.co.kr/learn/courses/30/lessons/42577
+### A4.cpp : https://programmers.co.kr/learn/courses/30/lessons/42885
 
