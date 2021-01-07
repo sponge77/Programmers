@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-// prices_lenÀº ¹è¿­ pricesÀÇ ±æÀÌÀÔ´Ï´Ù.
+// prices_lenì€ ë°°ì—´ pricesì˜ ê¸¸ì´ì…ë‹ˆë‹¤.
 int* solution(int prices[], size_t prices_len) {
     int i,j;
     int *stop = (int*)malloc(sizeof(int)*prices_len);
@@ -26,7 +26,7 @@ int* solution(int prices[], size_t prices_len) {
         }
     }
 
-    // return °ªÀº malloc µî µ¿Àû ÇÒ´çÀ» »ç¿ëÇØÁÖ¼¼¿ä. ÇÒ´ç ±æÀÌ´Â »óÈ²¿¡ ¸Â°Ô º¯°æÇØÁÖ¼¼¿ä.
+    // return ê°’ì€ malloc ë“± ë™ì  í• ë‹¹ì„ ì‚¬ìš©í•´ì£¼ì„¸ìš”. í• ë‹¹ ê¸¸ì´ëŠ” ìƒí™©ì— ë§ê²Œ ë³€ê²½í•´ì£¼ì„¸ìš”.
     int* answer = (int*)malloc(sizeof(int)*prices_len);
     for(i=0;i<prices_len;i++){
         answer[i] = count[i];
