@@ -1,4 +1,4 @@
-//2468¹ø ¾ÈÀü¿µ¿ª 
+//2468Â¹Ã¸ Â¾ÃˆÃ€Ã¼Â¿ÂµÂ¿Âª 
 #include <iostream>
 #include <cstdio>
 #include <stdio.h>
