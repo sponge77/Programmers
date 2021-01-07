@@ -12,6 +12,7 @@
   * A4.cpp : 구명보트 문제(탐욕법)
   * A7.cpp : 주식가격(스택/큐)
   * A8.cpp : 기능개발(스택/큐)
+  * A9.cpp : k번째 수(정렬)
 ### A1.cpp : https://www.acmicpc.net/problem/2455
 ### A2.cpp : https://programmers.co.kr/learn/courses/30/lessons/42840
 ### A3.cpp : https://programmers.co.kr/learn/courses/30/lessons/42577
@@ -20,6 +21,7 @@
 ### A6.cpp : https://www.acmicpc.net/problem/2468
 ### A7.cpp : https://programmers.co.kr/learn/courses/30/lessons/42584
 ### A8.cpp : https://programmers.co.kr/learn/courses/30/lessons/42586
+### A9.cpp : https://programmers.co.kr/learn/courses/30/lessons/42748
 
 
 
