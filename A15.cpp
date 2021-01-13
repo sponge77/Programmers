@@ -15,8 +15,8 @@ bool isPrime(int num)
 
 int solution(string numbers) {
     int answer=0;
-    //¾î¶»°Ô ³ª´©¾î¼­ -> ºÙÀÌÁö??
-    //ÀÏ´Ü ³ª´©ÀÚ
+    //ì–´ë–»ê²Œ ë‚˜ëˆ„ì–´ì„œ -> ë¶™ì´ì§€??
+    //ì¼ë‹¨ ë‚˜ëˆ„ì
     vector<bool> p;
     set<int> s;
 
@@ -34,7 +34,7 @@ int solution(string numbers) {
             if (p[tmp])
                 s.insert(tmp);
         }
-    } while(next_permutation(numbers.begin(), numbers.end())); //¼ø¿­À» ¹İÈ¯ÇÑ´Ù.
+    } while(next_permutation(numbers.begin(), numbers.end())); //ìˆœì—´ì„ ë°˜í™˜í•œë‹¤.
 
     return s.size();
 }
