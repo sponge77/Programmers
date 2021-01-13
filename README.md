@@ -16,6 +16,7 @@
   * A8.cpp : 기능개발(스택/큐)
   * A9.cpp : k번째 수(정렬)
   * A10.cpp : 카펫(완전탐색)
+  * A14.cpp : 타겟 넘버(깊이/너비 우선 탐색)
 ### A1.cpp : https://www.acmicpc.net/problem/2455
 ### A2.cpp : https://programmers.co.kr/learn/courses/30/lessons/42840
 ### A3.cpp : https://programmers.co.kr/learn/courses/30/lessons/42577
@@ -29,6 +30,9 @@
 ### A11.cpp : https://www.acmicpc.net/problem/9184
 ### A12.cpp : https://www.acmicpc.net/problem/2869
 ### A13.cpp : https://www.acmicpc.net/problem/2293
+### A14.cpp : https://programmers.co.kr/learn/courses/30/lessons/43165
+
+
 
 
 
