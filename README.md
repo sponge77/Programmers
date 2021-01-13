@@ -6,6 +6,7 @@
   * A5.cpp : 3040번 백설 공주와 일곱 난쟁이
   * A6.cpp : 2468번 안전영역
   * A11.cpp : 9184번 신나는 함수 실행
+  * A12.cpp : 2869번 달팽이는 올라가고 싶다
 * 프로그래머스 문제풀이
   * A2.cpp : 모의고사(완전탐색)
   * A3.cpp : 전화번호 목록(해시)
@@ -25,7 +26,7 @@
 ### A9.cpp : https://programmers.co.kr/learn/courses/30/lessons/42748
 ### A10.cpp : https://programmers.co.kr/learn/courses/30/lessons/42842
 ### A11.cpp : https://www.acmicpc.net/problem/9184
-
+### A12.cpp : https://www.acmicpc.net/problem/2869
 
 
 
