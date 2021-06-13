@@ -18,6 +18,7 @@
   * A10.cpp : 카펫(완전탐색)
   * A14.cpp : 타겟 넘버(깊이/너비 우선 탐색)
   * A15.cpp : 소수 찾기(완전탐색)
+  * A16.cpp : 1차 뉴스 클러스터링
 ### A1.cpp : https://www.acmicpc.net/problem/2455
 ### A2.cpp : https://programmers.co.kr/learn/courses/30/lessons/42840
 ### A3.cpp : https://programmers.co.kr/learn/courses/30/lessons/42577
@@ -33,6 +34,7 @@
 ### A13.cpp : https://www.acmicpc.net/problem/2293
 ### A14.cpp : https://programmers.co.kr/learn/courses/30/lessons/43165
 ### A15.cpp : https://programmers.co.kr/learn/courses/30/lessons/42839
+### A16(자바파일) : https://programmers.co.kr/learn/courses/30/lessons/17677
 
 
 
