@@ -19,6 +19,8 @@
   * A14.cpp : 타겟 넘버(깊이/너비 우선 탐색)
   * A15.cpp : 소수 찾기(완전탐색)
   * A16.cpp : 1차 뉴스 클러스터링
+* 삼성 소프트웨어 역량테스트 문제풀이
+  * A17.cpp : 동서남북 
 ### A1.cpp : https://www.acmicpc.net/problem/2455
 ### A2.cpp : https://programmers.co.kr/learn/courses/30/lessons/42840
 ### A3.cpp : https://programmers.co.kr/learn/courses/30/lessons/42577
